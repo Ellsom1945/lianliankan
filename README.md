@@ -1,6 +1,7 @@
 # 连连看
-这是一款基于Android studio开发的连连看小游戏。
+这是一款基于Android studio开发的连连看小游戏，使用了动物之森作为主题。
 主要实现的功能有：
+
 - 难度设置
 - 打乱重排
 - 排行榜
@@ -20,5 +21,9 @@
 
 本项目几乎涵盖了Android入门级的所有知识点，适合新手练手实践。
 
-![](images/llk.png)
-![](images/llk1.png)
+![](images/llk00.png)
+![](images/llk01.png)
+
+![](images/llk02.png)
+
+![](images/llk03.png)
