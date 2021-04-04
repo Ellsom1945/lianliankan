@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/uid"
+        android:layout_width="0px"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/uname"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/utime"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dip" />
+    <TextView
+        android:id="@+id/udate"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="2"/>
+</LinearLayout>

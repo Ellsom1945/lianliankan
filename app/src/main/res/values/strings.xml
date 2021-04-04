@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">连连看</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="describe">
+
+        连连看游戏，只要将相同的两个方块用三根以内的直线连在一起就可以消除，规则简单容易上手。游戏速度节奏快，画面清晰可爱，适合心细的玩家。\n\n\n
+        操作:\n
+        第一次使用点击棋盘中的图案，该图案此时为“被选中”状态，以特殊方式显示；再次点击其他图案，若该图案与被选中的图案相同，且把第一个棋子到第二个棋子连起来，中间的直线不超过3根，则消掉这一对，否则第一个图案恢复成未被选中状态，而第二个图案变成被选中状态。\n
+        如果时间结束还有剩余的方块没有消除，则游戏失败。
+    </string>
+</resources>

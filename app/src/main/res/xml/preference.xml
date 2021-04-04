@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="basic"
+        android:title="基本设置">
+        <CheckBoxPreference
+            android:key="music"
+            android:title="是否打开背景音乐" />
+    </PreferenceCategory>
+</PreferenceScreen>
